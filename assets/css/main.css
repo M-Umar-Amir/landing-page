@@ -226,7 +226,7 @@ input, select, textarea {
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #348cb2 url("images/Bahadurabad.jpg") bottom left;
+		background: #202020 url("images/output-onlinepngtools.png") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -358,7 +358,7 @@ input, select, textarea {
 		background-size: auto, cover;
 		height: 100%;
 		left: 0;
-		opacity: 0;
+		opacity: 0.5;
 		position: fixed;
 		top: 0;
 		width: 100%;
@@ -563,7 +563,8 @@ input, select, textarea {
 		#header p {
 			font-size: 1.25em;
 			margin: 0.75em 0 0.25em 0;
-			opacity: 0.75;
+			opacity: 1;
+			font-weight: 500;
 		}
 
 		#header nav {
